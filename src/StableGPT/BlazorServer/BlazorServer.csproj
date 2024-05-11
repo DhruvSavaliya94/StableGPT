@@ -33,6 +33,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebApp.Module\WebApp.Module.csproj" />
+    <ProjectReference Include="..\WebApp.Module\Module.csproj" />
   </ItemGroup>
 </Project>
